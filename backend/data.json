@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "class": "upper",
+    "price": 15,
+    "reserved": true
+  },
+  {
+    "id": 2,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 3,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 4,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 5,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 6,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 7,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 8,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 9,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 10,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 11,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 12,
+    "class": "upper",
+    "price": 15,
+    "reserved": false
+  },
+  {
+    "id": 13,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 14,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 15,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 16,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 17,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 18,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 19,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 20,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 21,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 22,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 23,
+    "class": "lower",
+    "price": 10,
+    "reserved": false
+  },
+  {
+    "id": 24,
+    "class": "lower",
+    "price": 10,
+    "reserved": true
+  }
+]
