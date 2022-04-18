@@ -9,7 +9,7 @@
     "id": 2,
     "class": "upper",
     "price": 15,
-    "reserved": false
+    "reserved": true
   },
   {
     "id": 3,
